@@ -1,0 +1,3 @@
+rootProject.name = 'tribe_1540'
+
+include ':app'
